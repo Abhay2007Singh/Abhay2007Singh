@@ -10,7 +10,6 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 
 ---
 
-<div align="center">
 
 ## 🔥 About Me  
 🎓 Currently learning and building projects in **Python** and **Web Development**  
@@ -18,11 +17,9 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 🌱 Exploring **FastAPI**, **Flask**, and modern web frameworks  
 🎯 Goal: To contribute to impactful projects and grow as a full-stack developer  
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 🛠️ Tech Stack  
 
@@ -36,7 +33,6 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-</div>
 
 ---
 

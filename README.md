@@ -40,7 +40,6 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 
 ---
 
-<div align="center">
 
 ## 📌 Featured Projects  
 
@@ -49,7 +48,6 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 🔹 [**Web_Development_Major**](https://github.com/Abhay2007Singh/Web_Development_Major) – Major web dev projects showcasing HTML, CSS, and JS skills.  
 🔹 [**Web_Development_Minor**](https://github.com/Abhay2007Singh/Web_Development_Minor) – My beginner-level web development practice projects.  
 
-</div>
 
 ---
 

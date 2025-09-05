@@ -20,6 +20,7 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 
 ---
 
+<div align="inline"> 
 
 ## 🛠️ Tech Stack  
 
@@ -36,6 +37,7 @@ Welcome to my GitHub! I’m passionate about building impactful software solutio
 
 ---
 
+</div>
 
 ## 📌 Featured Projects  
 
